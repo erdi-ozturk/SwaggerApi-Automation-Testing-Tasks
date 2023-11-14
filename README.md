@@ -15,7 +15,7 @@ Ensure that you have the following tools installed on your machine:
 1. **Clone the Repository:**
 
     ```bash
-    git clone [[repository-url](https://github.com/erdi-ozturk/SwaggerApi-Automation-Testing-Tasks.git)]
+    git clone https://github.com/erdi-ozturk/SwaggerApi-Automation-Testing-Tasks.git
     ```
 
 2. **Open the Project:**
